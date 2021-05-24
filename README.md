@@ -9,6 +9,7 @@ AUTOMATION | DEVOPS | TESTING | SERVER-SIDE | CLOUD
 nikhilgupta.myid@gmail.com
 
 www.linkedin.com/in/nikhil-gupta-a551a616
+
 www.hackerrank.com/nikhilgupta_myid
 	      Pune, India
 
